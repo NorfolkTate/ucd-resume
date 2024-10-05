@@ -361,7 +361,7 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
-/*Media Queries */
+/*Media Queries*/
 
 @media(min-width: 992px) {
     .center-form {
